@@ -79,9 +79,9 @@ Windows PowerShell:
 
 ## Team Members
 
-- Member 1: __________________
-- Member 2: __________________
-- Member 3: __________________
+- Member 1: P Sanjay
+- Member 2: Priyas RS
+- Member 3: 
 
 ## Competition Notes
 
